@@ -8,9 +8,6 @@ permalink: /privacy-policy/
 **Effective date:** 18 November 2026  
 **Last updated:** 18 November 2026  
 **App name:** Return Tracker  
-**Android package name:** `com.triplelimesaver.returntracker`  
-**Data controller / developer:** Triple Lime Saver LTD  
-**Privacy contact:** dhiraj.jha@triplelimesaver.co.uk  
 **Website:** https://triplelimesaver.co.uk/
 
 This Privacy Policy explains how Return Tracker handles information when you use the Android application. It is intended to describe the app's offline-first purchase and receipt tracking features and its use of Google services for advertising and in-app purchases.
@@ -264,7 +261,7 @@ For privacy questions, requests or concerns, contact:
 
 **Triple Lime Saver LTD**  
 **App:** Return Tracker  
-**Email:** dhiraj.jha@triplelimesaver.co.uk  
+**Email:** support@triplelimesaver.co.uk  
 **Website:** https://triplelimesaver.co.uk/
 
 ---
